@@ -1,0 +1,143 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-8700530133591078/6751385263",
+      "main_ads_intertitial":"ca-app-pub-8700530133591078/7813007881",
+      "backup_ads_banner":"qwerty1234",
+      "backup_ads_intertitial":"qwerty1234",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1nLPcLCJC7uy44sg78Vbti-xyePczrNgj"
+    }, 
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=11jxztpk8v85cDiMzAoGrTxilRjtt9Ccc"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1adaNQUgThn053l5le4A5-2X7gSsy0uMp"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1dJ8RP1cf1P31ipYSKJ9souEd5UUIJgGX"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1RwNXmZP_8-cOMxMeObGSgJbjw3bszXyD"
+    }, 
+    {
+      "url_theme": "https://drive.google.com/uc?export=download&id=14A27mw5a-Aqsz0xJsEwmCWzo3djNJXFy"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1r9IEKwAQLafPm9i0x-bqdzYRcGUfSdcj"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1m6K4kkhWnF4miPpyhkjxqJM-FX-Iv-NR"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1rBm-e1BuOahHnxp7AsdjADqup8P8DNRZ"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1My0mA1_zetAsAorOqYG7MisuOvF3-Isi"
+    }, 
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=13Qh6ECFBAiAYoEHzCSw8u6izVi5jv48g"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1LNUnk3mzOD19VS0zwJftBfUF6eu5dKFm"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1yMrEKFuVgayerFIaqyHmCqbHohcysBY9"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1wY-0mt8ywMYhu9Fa5vX3VMkZQTXI2G12"
+    }, 
+    {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1voC1sGwjc4uK7nnxc6A_E9UD8leF_A21"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1Ey4pXYqvaZN25Yr7scthh9OkO1Ozf7cE"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1Uu2Hn6frwSgWAlsG7m1Q6ptbTuDP2UKp"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=14G4uWgU30uopeP7qjHFmKHdRn928NzRR"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1mGmUEh6WYWKUgkUNS59fuQaWsUM7OZuM"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1FLDUUqT9zK4UDghsOXCOygHfxjQrGftj"
+    }, 
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=13bXBUGHFkQiyhzeUyBWDviwW2G2xGXZ3"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1NR36tEgexPonLXu_kGCi5atUQEjyIxlv"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1FnMCE4ALDqoUEAYNUeIieul_6PT_whU5"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1U0EJwYedtv3nyGUK9jKQNeTpLpqM5xbR"
+    }, 
+    {
+      "url_theme": "https://drive.google.com/uc?export=download&id=11iExjHtfrXvBoTnsBghVoWq9uigkNDoW"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1EwV3kQC5kxxKJNlOj1n34HhbfzkW8MfE"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1JyTBRGRSW-xcRAAb5VjOqt9PM9DZYqJ5"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1iORfNHO14ylexhUlwO4tbNn8XKGP7MLS"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1_J1VyM4cI3PY43AXNgteWhlR_V66VgRi"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1sDoyw5X2U8iIWzMMmOhn-Jrvtx1OxE-X"
+    }, 
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1I37Om3weEknPMoGQ7Go7Z_Ar4PzWMB_o"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=10v9j5VXq47jqyx7Qy6niZeqHxg87a3Ya"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1mP5ZxhmfkXml28gqfXeoQiHBWeuTmEEe"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1MlXmFjaxlWHVrWLKETMufYmGezJodmJI"
+    }, 
+    {
+      "url_theme": "https://drive.google.com/uc?export=download&id=15p7PbWR1pWrvzaMlm3gBbQNpNX8Y20Lx"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=11M3DAn8cAaS4cwRI8MSK235xImOdv-K2"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1eLM8oGDK_N9yNntEnb8HG8A23F50puTV"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=1p7qIs0mKqrlwUPAtjLgYDwReEx7EC_r-"
+    },
+     {
+      "url_theme": "https://drive.google.com/uc?export=download&id=11Dmf5q-zhm0TV2lyDmPxgJDCox6JwCV2"
+    }
+  ]
+
+
+}
