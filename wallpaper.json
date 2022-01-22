@@ -1,0 +1,455 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Kaligrafi",
+      "wallpaper_url": "category/kaligrafi.jpg"
+    },
+    {
+      "name_category": "Asmaul Husna",
+      "wallpaper_url": "category/kaligrafi_2.jpg"
+    },
+    {
+      "name_category": "Favorites",
+      "wallpaper_url": "category/kaligrafi_3.jpg"
+    },
+    {
+      "name_category": "Best Wallpaper",
+      "wallpaper_url": "category/kaligrafi_4.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1Fk_mRtiDA5W-bNZUtv1p282QB9HGmxQZ"
+    },
+    {
+      "id": 2,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1kyWZZhWgsNuyZf7kRya6zbt0e94ETxOB"
+    },
+    {
+      "id": 3,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=12G1X5hCLCN4FBs6ZGXeKCDfQXIZ39nPk"
+    },
+    {
+      "id": 4,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1aC8w6h_M-dgPexci4pYqItskFgEPL3ET"
+    },
+    {
+      "id": 5,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1TdzcAqIuty00-9TNhaWV0kIzk3OKw-6q"
+    },
+    {
+      "id": 6,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1-7r4I8w5KYR05J7EjqMeWE3co0okGNwX"
+    },
+    {
+      "id": 7,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1rFsU6Zxf7igAFPjPMA6SUSmRCz2Ys87j"
+    },
+    {
+      "id": 8,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1UDOiRfb-N4H3DdSG03ZrpzNlW1MvhJTS"
+    },
+    {
+      "id": 9,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1YjNQnANnWiRcS294AAXsgjrzYsvqbxXu"
+    },
+    {
+      "id": 10,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1aOf64wfaEDHdZ1WLeNCvAJgVVhUGSHQV"
+    },
+    {
+      "id": 11,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1_xwQz2eZGdp6-yzLxtDjWpHNz18OizcG"
+    },
+    {
+      "id": 12,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1kdlQ-uTvJHZn81gMIl0KjO_V54eacbsF"
+    },
+    {
+      "id": 13,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1a6XYrnm--2yy3X6BwbBU2tmCrAiBw8CR"
+    },
+    {
+      "id": 14,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=17WPcowIqBoENutkzZXTP-Ncqq39kBZSr"
+    },
+    {
+      "id": 15,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1RK2iiEe_RdcSfpm9xDWdPsdc2woiGNqY"
+    },
+    {
+      "id": 16,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1QNmyu7V-YiMMNNYbM5OAP8MWj9pOg2aZ"
+    },
+    {
+      "id": 17,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1ecvOJdcblNYEzzrZMiX9mr-mfzNG3NtV"
+    },
+    {
+      "id": 18,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1MEleCJAHDUzMsX5Vj-wtpplJoWMysbYZ"
+    },
+    {
+      "id": 19,
+      "name_category": "Kaligrafi",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1aSH-wymlu87WA78V13YtZyKScEIqoOIG"
+    },
+    {
+      "id": 20,
+      "name_category": "Asmaul Husna",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1mB7pnruSFveOS9sgxFNaHQGYzgk6KbKZ"
+    },
+    {
+      "id": 21,
+      "name_category": "Asmaul Husna",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1sISuZSPx3kHl8gMlI5St_fioVyCYX4Sd"
+    },
+    {
+      "id": 22,
+      "name_category": "Asmaul Husna",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=10d1StlUL4ICOa4FBDXvnyDo-0TMAu1_C"
+    },
+    {
+      "id": 23,
+      "name_category": "Asmaul Husna",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1n-XvZXfwDqSRalqmj8HWHL-1Q1MdqC0P"
+    },
+    {
+      "id": 24,
+      "name_category": "Asmaul Husna",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1hlXhKZwAJAMeF7RHRPJKfPtHMAGNWxol"
+    },
+    {
+      "id": 25,
+      "name_category": "Asmaul Husna",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=10k4RQk2exBGWi2Y0LHS_EE20O2CpkwzC"
+    },
+    {
+      "id": 26,
+      "name_category": "Asmaul Husna",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1SGt-bGjF0c6vCko68X6lKl8kfW_vgduG"
+    },
+    {
+      "id": 27,
+      "name_category": "Asmaul Husna",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1HdHputlNnnOr1Vxe8Ex-Vpj6GtKJseVS"
+    },
+    {
+      "id": 28,
+      "name_category": "Asmaul Husna",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1vVKbjvy12dh-zLtiK-XHKgKTM3ojaZfC"
+    },
+    {
+      "id": 29,
+      "name_category": "Asmaul Husna",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1Jww1GMpPXMhnGqOxDkWJni3QwGJd3Hkf"
+    },
+    {
+      "id": 30,
+      "name_category": "Favorites",
+      "wallpaper_name": "Asmaul Husna",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1oP-GJoXQO06gwssQ0GYMK2_3WoINKzxB"
+    },
+    {
+      "id": 31,
+      "name_category": "Favorites",
+      "wallpaper_name": "Asmaul Husna",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1oAXoqlEdiqbG53dPdXcUd5UmFEgZQo-d"
+    },
+    {
+      "id": 32,
+      "name_category": "Favorites",
+      "wallpaper_name": "Asmaul Husna",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1p8vrIngm2J00e_0bmUnQkG483oojbC3a"
+    },
+    {
+      "id": 33,
+      "name_category": "Favorites",
+      "wallpaper_name": "Asmaul Husna",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1R3dO_AYzYJECL0Ux4scqGAB3AzflgobG"
+    },
+    {
+      "id": 34,
+      "name_category": "Favorites",
+      "wallpaper_name": "Asmaul Husna",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1gkISmgZGvVta14eh7Mn29jCbNuLLcLNc"
+    },
+    {
+      "id": 35,
+      "name_category": "Favorites",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1bhQZMEs7ZcTCAFNj7GkNGOmxK_8egyrD"
+    },
+    {
+	  "id": 36,
+      "name_category": "Favorites",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1xmgrvXfQAw-wr4OlT0KK6PZGwazeNxCP"
+    },
+    {      
+	  "id": 37,
+      "name_category": "Favorites",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1loWZ0MTN-d52FPbq6wdYqovuFKZQXSK6"
+    },
+    {      
+	  "id": 38,
+      "name_category": "Favorites",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=12b0cnGyEYQ-qpx74GmMRz8lfPihgsCM2"	  
+    },
+    {      
+	  "id": 39,
+      "name_category": "Favorites",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1uL9fiYKxCEXIK5E6RWZSn-gurOfnPWiy"	  
+    },
+    {
+      "id": 40,
+      "name_category": "Favorites",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1eLqMZAQLi79ybwaXVtMqo-o9hFFYpHyM"
+    },
+    {
+      "id": 41,
+      "name_category": "Favorites",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1WaLHidLNdIKxxGhE9URccSy3hQzLOtm0"
+    },
+    {
+      "id": 42,
+      "name_category": "Favorites",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=18is2Bsuz8O6rZC7eAdyNhj9FYfZwhQB0"
+    },
+    {
+      "id": 43,
+      "name_category": "Favorites",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=197VRNSDwxWrYeXstEKYCbOiKSCDmteHA"
+    },
+    {
+      "id": 44,
+      "name_category": "Favorites",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1U2HT2rBl9Y5n_q5zvVgjUfxydM8LRWOU"	  
+    },
+    {
+      "id": 45,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1WSV7EsSV2D71z_p5XzsDTXLVnFK-wtr_"	  
+    },
+    {
+      "id": 46,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1XQ4NYdfBitCIrYKkSQLY6dGMg1zuQyYg"	  
+    },
+    {
+      "id": 47,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=10dceBIBUFIn05IwVmT7L2aTFmnaidWeR"	  
+    },
+    {
+      "id": 48,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=12egS2BNrsDDGJdu015MwoNVLgrtxV166"	  
+    },
+    {
+      "id": 49,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1yg2f2Cxz91o0cSWwrP7vPHEUkfuvAtSm"	  
+    },
+    {
+      "id": 50,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1oxS_VEq6Es2yeUb3LP5NOd9JrG-GoAgQ"	  
+    },
+    {
+      "id": 51,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=18MOqjgzburhYCYlNdLlsrfGOODgpWb1M"	  
+    },
+    {
+      "id": 52,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1o7ad_QY6DNHLI2sA-XMYW9Zw7ovUqZfy"	  
+    },
+    {
+      "id": 53,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=10ULqo12ozwWUtjjQweJPHtAudTenc_Y0"	  
+    },
+    {
+      "id": 54,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Kaligrafi",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1VL-NsfxsDpW13m8B7yL9xgZCNEkFiUZa"
+    },
+    {
+      "id": 55,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Asmaul Husna",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=132lirTZdoiHuzppZZwdWp7A1HrWbYk_p"
+    },
+    {
+      "id": 56,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Asmaul Husna",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1SWTn04PiB4D1p6O7bZl5qlcDAiSigUHs"
+    },
+    {
+      "id": 57,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Asmaul Husna",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1YZ09nCcMTfvRW-_BEvOXNfQqtguhxEgB"
+    },
+    {
+      "id": 58,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Asmaul Husna",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=1rI4DJLqgRezLB1OOvW2frYNzfJh0_LPY"
+    },
+    {
+      "id": 59,
+      "name_category": "Best Wallpaper",
+      "wallpaper_name": "Asmaul Husna",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://drive.google.com/uc?export=download&id=11YnxdEGYY56tQ99JC57dQSN_gfUzlNnL"
+    }
+  ]
+}
