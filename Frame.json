@@ -1,0 +1,138 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "iTwibbon",
+      "image_link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twibbonize.com%2Fisramirajnabi1443h&psig=AOvVaw3qUmxxZKkRE1IqbSg_p-Sz&ust=1644293936351000&source=images&cd=vfe&ved=2ahUKEwi005Cx3uz1AhXkR2wGHU9ICkQQjRx6BAgAEAk"
+
+    },
+    {
+      "category": "Top Frame",
+      "image_link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twibbonize.com%2Fisramiraj1tahun22&psig=AOvVaw1ECu3TfOxQnMAuGayRJBJ5&ust=1644293084665000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjwlL_e7PUCFQAAAAAdAAAAABAJ"
+
+    },
+    {
+      "category": "Favorites",
+      "image_link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twibbonize.com%2Fisra2022&psig=AOvVaw1ECu3TfOxQnMAuGayRJBJ5&ust=1644293084665000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjwlL_e7PUCFQAAAAAdAAAAABAP"
+
+    },
+    {
+      "category": "Best Frame",
+      "image_link": "https://blogger.googleusercontent.com/img/a/AVvXsEg1NZML8gDZcDlp51wLpHGdiX2Ql2AabeIwoVFl3e5jGSMzXv2_WzfhS8eDivSSPoIXnaMvu7rXl3R1SoWgk-ULwUUGUzawePc1zo4Tko1xC36NnndaYTFLuFNGuck3lg_nhWA8uMzMa6szHPZPYY0TvLb-UhwBdYnbQ6L7EQLX-8IjMhQvckm55zQ3lg=s600"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "iTwibbon",
+      "title": "1",
+      "image_link": "https://www.twibbonize.com/isramiraj1443"
+    },
+    {
+      "id": 2,
+      "category": "iTwibbon",
+      "title": "2",
+      "image_link": "https://www.twibbonize.com/isramiraj1443h2022m"
+    },
+    {
+      "id": 3,
+      "category": "iTwibbon",
+      "title": "3",
+      "image_link": "https://www.twibbonize.com/isramiraj2022twb"
+    },
+    {
+      "id": 4,
+      "category": "iTwibbon",
+      "title": "4",
+      "image_link": "https://www.twibbonize.com/staitb"
+    },
+    {
+      "id": 5,
+      "category": "iTwibbon",
+      "title": "5",
+      "image_link": "https://www.twibbonize.com/ideisramiraj1443h"
+    },
+    {
+      "id": 6,
+      "category": "iTwibbon",
+      "title": "6",
+      "image_link": "https://www.twibbonize.com/twibbonisramiraj2022"
+    },
+    {
+      "id": 7,
+      "category": "iTwibbon",
+      "title": "7",
+      "image_link": "https://www.twibbonize.com/isramirajaldzi2"
+    },
+    {
+      "id": 8,
+      "category": "iTwibbon",
+      "title": "8",
+      "image_link": "https://www.twibbonize.com/selmtisromiroj"
+    },
+    {
+      "id": 9,
+      "category": "iTwibbon",
+      "title": "9",
+      "image_link": "https://www.twibbonize.com/isramirajbyseged"
+    },
+    {
+      "id": 10,
+      "category": "iTwibbon",
+      "title": "10",
+      "image_link": "https://www.twibbonize.com/isramiraj22nh"
+    },
+    {	  
+      "id": 11,
+      "category": "iTwibbon",
+      "title": "11",
+      "image_link": "https://www.twibbonize.com/twibbonramadan2021"
+    },
+    {
+      "id": 12,
+      "category": "iTwibbon",
+      "title": "12",
+      "image_link": "https://www.twibbonize.com/selmtharisramiraj"
+    },
+    {
+      "id": 13,
+      "category": "iTwibbon",
+      "title": "13",
+      "image_link": "https://www.twibbonize.com/israkairos"
+    },
+    {
+      "id": 14,
+      "category": "iTwibbon",
+      "title": "14",
+      "image_link": "https://www.twibbonize.com/url-isramiraj"	  
+    },
+    {
+      "id": 15,
+      "category": "iTwibbon",
+      "title": "15",
+      "image_link": "https://www.twibbonize.com/imrtqassadah"
+    }
+
+
+  ]
+}
