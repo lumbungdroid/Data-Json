@@ -1,0 +1,228 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"qwerty1234",
+      "backup_ads_intertitial":"qwerty1234",
+      "interval_intertitial": 1,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "twibbon",
+      "high_paying_keyword_2": "twibbon",
+      "high_paying_keyword_3": "twibbon",
+      "high_paying_keyword_4": "twibbon",
+      "high_paying_keyword_5": "twibbon",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "iTwibbon",
+      "image_link": "https://github.com/lumbungdroid/Twibbon_Isra-_Mi-raj/blob/0b42dc7d917ea6fbf68e17459bbdd64a2e888703/1.png"
+
+    },
+    {
+      "category": "Top Frame",
+      "image_link": "https://github.com/lumbungdroid/Twibbon_Isra-_Mi-raj/blob/0b42dc7d917ea6fbf68e17459bbdd64a2e888703/10.png"
+
+    },
+    {
+      "category": "Favorites",
+      "image_link": "frame/4.png"
+
+    },
+    {
+      "category": "Best Frame",
+      "image_link": "frame/15.png"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "iTwibbon",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/1.png"
+    },
+    {
+      "id": 2,
+      "category": "iTwibbon",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/2.png"
+    },
+    {
+      "id": 3,
+      "category": "iTwibbon",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/3.png"
+    },
+    {
+      "id": 4,
+      "category": "iTwibbon",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/4.png"
+    },
+    {
+      "id": 5,
+      "category": "iTwibbon",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/5.png"
+    },
+    {
+      "id": 6,
+      "category": "iTwibbon",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/6.png"
+    },
+    {
+      "id": 7,
+      "category": "iTwibbon",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/7.png"
+    },
+    {
+      "id": 8,
+      "category": "iTwibbon",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/8.png"
+    },
+    {
+      "id": 9,
+      "category": "Top Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/9.png"
+    },
+    {
+      "id": 10,
+      "category": "Top Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/10.png"
+    },
+    {	  
+      "id": 11,
+      "category": "Top Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/11.png"
+    },
+    {
+      "id": 12,
+      "category": "Top Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/12.png"
+    },
+    {
+      "id": 13,
+      "category": "Top Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/13.png"
+    },
+    {
+      "id": 14,
+      "category": "Top Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/14.png"	  
+    },
+    {
+      "id": 15,
+      "category": "Top Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/15.png"
+    },
+    {     
+	 "id": 16,
+      "category": "Favorites",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/16.png"
+    },
+    {
+      "id": 17,
+      "category": "Favorites",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/17.png"
+    },
+    {
+      "id": 18,
+      "category": "Favorites",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/18.png"
+    },
+    {
+      "id": 19,
+      "category": "Favorites",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/19.png"
+    },
+    {
+      "id": 20,
+      "category": "Favorites",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/20.png"
+    },
+    {
+      "id": 21,
+      "category": "Favorites",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/21.png"
+    },
+    {
+      "id": 22,
+      "category": "Favorites",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/22.png"
+    },
+    {
+      "id": 23,
+      "category": "Best Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/23.png"
+    },
+    {
+      "id": 24,
+      "category": "Best Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/24.png"
+    },
+    {
+      "id": 25,
+      "category": "Best Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/25.png"
+    },
+    {	  
+      "id": 26,
+      "category": "Best Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/26.png"
+    },
+    {
+      "id": 27,
+      "category": "Best Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/27.png"
+    },
+    {
+      "id": 28,
+      "category": "Best Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/28.png"
+    },
+    {
+      "id": 29,
+      "category": "Best Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/29.png"	  
+    },
+    {
+      "id": 30,
+      "category": "Best Frame",
+      "title": "Isra' Mi'raj ",
+      "image_link": "frame/30.png"    
+    }
+
+
+  ]
+}
