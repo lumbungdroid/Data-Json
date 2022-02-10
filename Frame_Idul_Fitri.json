@@ -2,8 +2,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "backup_ads_banner":"qwerty1234",
       "backup_ads_intertitial":"qwerty1234",
       "interval_intertitial": 1,
@@ -15,28 +15,28 @@
       "high_paying_keyword_4": "twibbon",
       "high_paying_keyword_5": "twibbon",
       "status_app": "0",
-      "link_redirect": "https://"
+      "link_redirect": "https:https://lumbungdroid.my.id/Twibbon_Idul_Fitri/https://lumbungdroid.my.id/Twibbon_Idul_Fitri/"
     }
   ],
      "Categories": [
     {
       "category": "iTwibbon",
-      "image_link": "https://github.com/lumbungdroid/Twibbon_Isra-_Mi-raj/blob/0b42dc7d917ea6fbf68e17459bbdd64a2e888703/1.png"
+      "image_link": "https:https://lumbungdroid.my.id/Twibbon_Idul_Fitri/1.png"
 
     },
     {
       "category": "Top Frame",
-      "image_link": "https://github.com/lumbungdroid/Twibbon_Isra-_Mi-raj/blob/0b42dc7d917ea6fbf68e17459bbdd64a2e888703/10.png"
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/2.png"
 
     },
     {
       "category": "Favorites",
-      "image_link": "frame/4.png"
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/4.png"
 
     },
     {
       "category": "Best Frame",
-      "image_link": "frame/15.png"
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/15.png"
 
     }
   ],
@@ -45,182 +45,362 @@
     {
       "id": 1,
       "category": "iTwibbon",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/1.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/1.png"
     },
     {
       "id": 2,
       "category": "iTwibbon",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/2.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/2.png"
     },
     {
       "id": 3,
       "category": "iTwibbon",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/3.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/3.png"
     },
     {
       "id": 4,
       "category": "iTwibbon",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/4.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/4.png"
     },
     {
       "id": 5,
       "category": "iTwibbon",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/5.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/5.png"
     },
     {
       "id": 6,
       "category": "iTwibbon",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/6.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/6.png"
     },
     {
       "id": 7,
       "category": "iTwibbon",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/7.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/7.png"
     },
     {
       "id": 8,
       "category": "iTwibbon",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/8.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/8.png"
     },
     {
       "id": 9,
       "category": "Top Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/9.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/9.png"
     },
     {
       "id": 10,
       "category": "Top Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/10.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/10.png"
     },
     {	  
       "id": 11,
       "category": "Top Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/11.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/11.png"
     },
     {
       "id": 12,
       "category": "Top Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/12.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/12.png"
     },
     {
       "id": 13,
       "category": "Top Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/13.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/13.png"
     },
     {
       "id": 14,
       "category": "Top Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/14.png"	  
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/14.png"	  
     },
     {
       "id": 15,
       "category": "Top Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/15.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/15.png"
     },
     {     
 	 "id": 16,
       "category": "Favorites",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/16.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/16.png"
     },
     {
       "id": 17,
       "category": "Favorites",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/17.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/17.png"
     },
     {
       "id": 18,
       "category": "Favorites",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/18.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/18.png"
     },
     {
       "id": 19,
       "category": "Favorites",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/19.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/19.png"
     },
     {
       "id": 20,
       "category": "Favorites",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/20.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/20.png"
     },
     {
       "id": 21,
       "category": "Favorites",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/21.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/21.png"
     },
     {
       "id": 22,
       "category": "Favorites",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/22.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/22.png"
     },
     {
       "id": 23,
       "category": "Best Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/23.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/23.png"
     },
     {
       "id": 24,
       "category": "Best Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/24.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/24.png"
     },
     {
       "id": 25,
       "category": "Best Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/25.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/25.png"
     },
     {	  
       "id": 26,
       "category": "Best Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/26.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/26.png"
     },
     {
       "id": 27,
       "category": "Best Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/27.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/27.png"
     },
     {
       "id": 28,
       "category": "Best Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/28.png"
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/28.png"
     },
     {
       "id": 29,
       "category": "Best Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/29.png"	  
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/29.png"	  
     },
     {
       "id": 30,
       "category": "Best Frame",
-      "title": "Isra' Mi'raj ",
-      "image_link": "frame/30.png"    
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/30.png"
+    },
+    {
+      "id": 31,
+      "category": "iTwibbon",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/31.png"
+    },
+    {
+      "id": 32,
+      "category": "iTwibbon",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/32.png"
+    },
+    {
+      "id": 33,
+      "category": "iTwibbon",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/33.png"
+    },
+    {
+      "id": 34,
+      "category": "iTwibbon",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/34.png"
+    },
+    {
+      "id": 35,
+      "category": "iTwibbon",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/35.png"
+    },
+    {
+      "id": 36,
+      "category": "iTwibbon",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/36.png"
+    },
+    {
+      "id": 37,
+      "category": "iTwibbon",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/37.png"
+    },
+    {
+      "id": 38,
+      "category": "iTwibbon",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/38.png"
+    },
+    {
+      "id": 39,
+      "category": "Top Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/39.png"
+    },
+    {
+      "id": 40,
+      "category": "Top Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/40.png"
+    },
+    {	  
+      "id": 41,
+      "category": "Top Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/41.png"
+    },
+    {
+      "id": 42,
+      "category": "Top Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/42.png"
+    },
+    {
+      "id": 43,
+      "category": "Top Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/43.png"
+    },
+    {
+      "id": 44,
+      "category": "Top Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/44.png"	  
+    },
+    {
+      "id": 45,
+      "category": "Top Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/45.png"
+    },
+    {     
+	 "id": 46,
+      "category": "Favorites",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/46.png"
+    },
+    {
+      "id": 47,
+      "category": "Favorites",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/47.png"
+    },
+    {
+      "id": 48,
+      "category": "Favorites",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/48.png"
+    },
+    {
+      "id": 49,
+      "category": "Favorites",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/49.png"
+    },
+    {
+      "id": 50,
+      "category": "Favorites",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/50.png"
+    },
+    {
+      "id": 51,
+      "category": "Favorites",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/51.png"
+    },
+    {
+      "id": 52,
+      "category": "Favorites",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/52.png"
+    },
+    {
+      "id": 53,
+      "category": "Best Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/53.png"
+    },
+    {
+      "id": 54,
+      "category": "Best Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/54.png"
+    },
+    {
+      "id": 55,
+      "category": "Best Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/55.png"
+    },
+    {	  
+      "id": 56,
+      "category": "Best Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/56.png"
+    },
+    {
+      "id": 57,
+      "category": "Best Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/57.png"
+    },
+    {
+      "id": 58,
+      "category": "Best Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/58.png"
+    },
+    {
+      "id": 59,
+      "category": "Best Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/59.png"	  
+    },
+    {
+      "id": 60,
+      "category": "Best Frame",
+      "title": "Hari Raya Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/60.png"	  
     }
 
 
