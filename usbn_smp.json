@@ -1,0 +1,196 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "interid": "",
+        "nativeid": "",
+        "openid":"",
+        "bannerid":"",
+        "interval": 1,
+        "pengaturan_iklan":"1",
+        "startappid":"12345678",
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_banner_native":"YOUR_PLACEMENT_ID",
+        "fan_banner":"YOUR_PLACEMENT_ID",
+        "mopub_banner":"",
+        "mopub_inter":""
+
+     
+        }
+    ],
+    "More":
+  [
+    {
+      "id":1,
+      "title":"Sticker Belasungkawa",
+      "image":"file:///android_asset/image/Slide2.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.lumbungdroid.stickerbelasungkawa"
+    },
+    {
+      "id":2,
+      "title":"Tebak Kata",
+      "image":"file:///android_asset/image/tebak_kata.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ruslanwahida.gametebakkata"
+    },
+    {
+      "id":3,
+      "title":"Buku Digital MTs",
+      "image":"file:///android_asset/image/buku_digital_mts.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.lumbungdroid.bukudigital"
+    }
+  ],
+
+
+  "Pdf": [
+    {
+      "id": 1,
+      "nama_pdf": "IPA Kelas 7",
+      "gambar_pdf": "https://drive.google.com/uc?export=download&id=1ZQARMF7wIKHpu6_iJPmJYpw31EqlBFia",
+      "url_pdf": "https://drive.google.com/uc?export=download&id=1eGu35n0WogDLHFaVGON-CP8DjsKfEYzf"
+    },
+    {
+      "id": 2,
+       "nama_pdf": "IPA Kelas 8",
+      "gambar_pdf": "https://drive.google.com/uc?export=download&id=1kfFlJJ5WKOIggkekSuQ_jO5gpU-KNt9o",
+      "url_pdf": "https://drive.google.com/uc?export=download&id=1-wmHXmzpPJhYvF6KeZPt3qGh6q9tuMDD"
+    },
+    {
+      "id": 3,
+      "nama_pdf": "IPA Kelas 9",
+      "gambar_pdf": "https://drive.google.com/uc?export=download&id=16lKtFJhs1UPVPL2JiK5cA_0UZdEd6iK1",
+      "url_pdf": "https://drive.google.com/uc?export=download&id=1Wri63p9XHUguvrFAdpDTHEVshsMU7rlb"
+    }
+  ],
+
+  "Qiuz":
+  [
+    {
+      "id":"1",
+      "nama_quiz":"Ilmu Pengetahun Alam",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ipa.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Ilmu Pengetahun Alam USBN paket A tahun 2022"
+    },
+    {
+      "id":"2",
+      "nama_quiz":"Ilmu Pengetahun Alam",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ipaB.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Ilmu Pengetahun Alam USBN paket B tahun 2022"
+    },
+    {
+      "id":"3",
+      "nama_quiz":"Ilmu Pengetahun Alam",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ipaC.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Ilmu Pengetahun Alam USBN paket C tahun 2022"
+    },
+    {
+      "id":"4",
+      "nama_quiz":"Ilmu Pengetahun Alam",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ipaD.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Ilmu Pengetahun Alam USBN paket D tahun 2022"	  
+    },
+    {
+      "id":"5",
+      "nama_quiz":"Bahasa Indonesia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/indo.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Indonesia USBN paket A tahun 2022"
+    },
+    {
+      "id":"6",
+      "nama_quiz":"Bahasa Indonesia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/indoB.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Indonesia USBN paket B tahun 2022"
+    },
+    {
+      "id":"7",
+      "nama_quiz":"Bahasa Indonesia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/indoC.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Indonesia USBN paket C tahun 2022"
+    },
+    {
+      "id":"8",
+      "nama_quiz":"Bahasa Indonesia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/indoD.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Indonesia USBN paket D tahun 2022"
+    },
+    {
+      "id":"9",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtk.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket A tahun 2022"
+    },
+    {
+      "id":"10",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtkB.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket B tahun 2022"
+    },
+    {
+      "id":"11",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtkC.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket C tahun 2022"
+    },
+    {
+      "id":"12",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtkD.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket D tahun 2022"
+    },
+    {
+      "id":"13",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtkE.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket E tahun 2022"
+    },
+    {
+      "id":"14",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtkF.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket F tahun 2022"
+    },
+    {
+      "id":"15",
+      "nama_quiz":"Bahasa Inggris",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ing.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Inggris USBN paket A tahun 2022"
+    },
+    {
+      "id":"16",
+      "nama_quiz":"Bahasa Inggris",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ingB.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Bahasa Inggris USBN paket B tahun 2022"
+    },
+    {
+      "id":"17",
+      "nama_quiz":"Bahasa Inggris",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ingC.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Bahasa Inggris USBN paket C tahun 2022"
+    },
+    {
+      "id":"18",
+      "nama_quiz":"Bahasa Inggris",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ingD.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Bahasa Inggris USBN paket D tahun 2022"	  
+    }
+  ]
+}
