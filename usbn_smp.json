@@ -125,42 +125,42 @@
     {
       "id":"9",
       "nama_quiz":"Matematika",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtk.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mat.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal Matematika USBN paket A tahun 2022"
     },
     {
       "id":"10",
       "nama_quiz":"Matematika",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtkB.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/matB.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal Matematika USBN paket B tahun 2022"
     },
     {
       "id":"11",
       "nama_quiz":"Matematika",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtkC.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/matC.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal Matematika USBN paket C tahun 2022"
     },
     {
       "id":"12",
       "nama_quiz":"Matematika",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtkD.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/matD.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal Matematika USBN paket D tahun 2022"
     },
     {
       "id":"13",
       "nama_quiz":"Matematika",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtkE.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/matE.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal Matematika USBN paket E tahun 2022"
     },
     {
       "id":"14",
       "nama_quiz":"Matematika",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/mtkF.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/matF.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal Matematika USBN paket F tahun 2022"
     },
