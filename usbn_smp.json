@@ -25,19 +25,19 @@
     {
       "id":1,
       "title":"Sticker Belasungkawa",
-      "image":"file:///android_asset/image/Slide2.jpg",
+      "image":"https://drive.google.com/uc?export=download&id=1es35MbqK7xK4hev2_qmSvhAjsqanZv98",
       "link":"https://play.google.com/store/apps/details?id=com.lumbungdroid.stickerbelasungkawa"
     },
     {
       "id":2,
       "title":"Tebak Kata",
-      "image":"file:///android_asset/image/tebak_kata.jpg",
+      "image":"https://drive.google.com/uc?export=download&id=1YGGC7Q3O5NkwBF3nwQmTFhUCVgVTfQbP",
       "link":"https://play.google.com/store/apps/details?id=com.ruslanwahida.gametebakkata"
     },
     {
       "id":3,
       "title":"Buku Digital MTs",
-      "image":"file:///android_asset/image/buku_digital_mts.jpg",
+      "image":"https://drive.google.com/uc?export=download&id=1GSTdtzKXKe-Kux5n8Ac2ZUoz75dc66IR",
       "link":"https://play.google.com/store/apps/details?id=com.lumbungdroid.bukudigital"
     }
   ],
