@@ -168,28 +168,28 @@
       "id":"15",
       "nama_quiz":"Bahasa Inggris",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ing.html",
-      "color_quiz":"#66FFCC",
+      "color_quiz":"#e74c3c",
       "des_quiz":"Soal Bahasa Inggris USBN paket A tahun 2022"
     },
     {
       "id":"16",
       "nama_quiz":"Bahasa Inggris",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ingB.html",
-      "color_quiz":"#66FFCC",
+      "color_quiz":"#e74c3c",
       "des_quiz":"Soal Bahasa Inggris USBN paket B tahun 2022"
     },
     {
       "id":"17",
       "nama_quiz":"Bahasa Inggris",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ingC.html",
-      "color_quiz":"#66FFCC",
+      "color_quiz":"#e74c3c",
       "des_quiz":"Soal Bahasa Inggris USBN paket C tahun 2022"
     },
     {
       "id":"18",
       "nama_quiz":"Bahasa Inggris",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMP/ingD.html",
-      "color_quiz":"#66FFCC",
+      "color_quiz":"#e74c3c",
       "des_quiz":"Soal Bahasa Inggris USBN paket D tahun 2022"	  
     }
   ]
