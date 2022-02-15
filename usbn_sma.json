@@ -198,6 +198,153 @@
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkipsTB.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal Matematika USBN paket H tahun 2022"
+    },
+    {
+      "id":"26",
+      "nama_quiz":"Kimia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/kimia.html",
+      "color_quiz":"#800080",
+      "des_quiz":"Soal Kimia USBN paket A tahun 2022"
+    },
+    {
+      "id":"27",
+      "nama_quiz":"Kimia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/kimiaA.html",
+      "color_quiz":"#800080",
+      "des_quiz":"Soal Kimia USBN paket B tahun 2022"
+    },
+    {
+      "id":"28",
+      "nama_quiz":"Kimia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/kimiaB.html",
+      "color_quiz":"#800080",
+      "des_quiz":"Soal Kimia USBN paket C tahun 2022"
+    },
+    {
+      "id":"29",
+      "nama_quiz":"Kimia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/kimiaC.html",
+      "color_quiz":"#800080",
+      "des_quiz":"Soal Kimia USBN paket D tahun 2022"	  	
+    },
+    {
+      "id":"30",
+      "nama_quiz":"Kimia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/kimiaTA.html",
+      "color_quiz":"#800080",
+      "des_quiz":"Soal Kimia USBN paket E tahun 2022"	
+    },
+    {
+      "id":"31",
+      "nama_quiz":"Kimia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/kimiaTB.html",
+      "color_quiz":"#800080",
+      "des_quiz":"Soal Kimia USBN paket F tahun 2022"	
+    },
+    {
+      "id":"32",
+      "nama_quiz":"Fisika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/fisika.html",
+      "color_quiz":"#ff00ff",
+      "des_quiz":"Soal Fisika USBN paket A tahun 2022"
+    },
+    {
+      "id":"33",
+      "nama_quiz":"Fisika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/fisikaA.html",
+      "color_quiz":"#ff00ff",
+      "des_quiz":"Soal Fisika USBN paket B tahun 2022"
+    },
+    {
+      "id":"34",
+      "nama_quiz":"Fisika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/fisikaC.html",
+      "color_quiz":"#ff00ff",
+      "des_quiz":"Soal Fisika USBN paket C tahun 2022"
+    },
+    {
+      "id":"35",
+      "nama_quiz":"Fisika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/fisikaD.html",
+      "color_quiz":"#ff00ff",
+      "des_quiz":"Soal Fisika USBN paket D tahun 2022"	  	
+    },
+    {
+      "id":"36",
+      "nama_quiz":"Fisika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/fisikaTA.html",
+      "color_quiz":"#ff00ff",
+      "des_quiz":"Soal Fisika USBN paket E tahun 2022"	  
+    },
+    {
+      "id":"37",
+      "nama_quiz":"Fisika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/fisikaTB.html",
+      "color_quiz":"#ff00ff",
+      "des_quiz":"Soal Fisika USBN paket F tahun 2022"	  
+    },
+    {
+      "id":"38",
+      "nama_quiz":"Ekonomi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomi.html",
+      "color_quiz":"#00ff00",
+      "des_quiz":"Soal Ekonomi USBN paket A tahun 2022"
+    },
+    {
+      "id":"39",
+      "nama_quiz":"Ekonomi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiA.html",
+      "color_quiz":"#00ff00",
+      "des_quiz":"Soal Ekonomi USBN paket B tahun 2022"
+    },
+    {
+      "id":"40",
+      "nama_quiz":"Ekonomi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiB.html",
+      "color_quiz":"#00ff00",
+      "des_quiz":"Soal Ekonomi USBN paket C tahun 2022"
+    },
+    {
+      "id":"41",
+      "nama_quiz":"Ekonomi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiC.html",
+      "color_quiz":"#00ff00",
+      "des_quiz":"Soal Ekonomi USBN paket D tahun 2022"
+    },
+    {
+      "id":"42",
+      "nama_quiz":"Ekonomi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiD.html",
+      "color_quiz":"#00ff00",
+      "des_quiz":"Soal Ekonomi USBN paket E tahun 2022"	  
+    },
+    {
+      "id":"43",
+      "nama_quiz":"Ekonomi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiKB.html",
+      "color_quiz":"#00ff00",
+      "des_quiz":"Soal Ekonomi USBN paket F tahun 2022"	 
+    },
+    {
+      "id":"44",
+      "nama_quiz":"Ekonomi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiKC.html",
+      "color_quiz":"#00ff00",
+      "des_quiz":"Soal Ekonomi USBN paket G tahun 2022"	 
+    },
+    {
+      "id":"45",
+      "nama_quiz":"Ekonomi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiTA.html",
+      "color_quiz":"#00ff00",
+      "des_quiz":"Soal Ekonomi USBN paket H tahun 2022"	 
+    },
+    {
+      "id":"46",
+      "nama_quiz":"Ekonomi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiTB.html",
+      "color_quiz":"#00ff00",
+      "des_quiz":"Soal Ekonomi USBN paket I tahun 2022"	 	  	    
     }
   ]
 }
