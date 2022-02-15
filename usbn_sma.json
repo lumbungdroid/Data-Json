@@ -726,91 +726,91 @@
     {
       "id":"101",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaK.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaK.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal SBMPTN paket K tahun 2022"	  
     },
     {
       "id":"102",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaL.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaL.html",
       "color_quiz":"#1abc9c",
       "des_quiz":"Soal SBMPTN paket L tahun 2022"
     },
     {
       "id":"103",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaM.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaM.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal SBMPTN paket M tahun 2022"
     },
     {
       "id":"104",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaN.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaN.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal SBMPTN paket N tahun 2022"	  	
     },
     {
       "id":"105",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaO.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaO.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal SBMPTN paket O tahun 2022"	
     },
     {
       "id":"106",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaP.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaP.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal SBMPTN paket P tahun 2022"	
     },
     {
       "id":"107",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaQ.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaQ.html",
       "color_quiz":"#1abc9c",
       "des_quiz":"Soal SBMPTN paket Q tahun 2022"
     },
     {
       "id":"108",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaR.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaR.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal SBMPTN paket R tahun 2022"
     },
     {
       "id":"109",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaS.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaS.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal SBMPTN paket S tahun 2022"	  	
     },
     {
       "id":"110",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaT.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaT.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal SBMPTN paket T tahun 2022"	
     },
     {
       "id":"111",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaU.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaU.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal SBMPTN paket U tahun 2022"	
     },
     {
       "id":"112",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaV.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaV.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal SBMPTN paket V tahun 2022"	
     },
     {
       "id":"113",
       "nama_quiz":"Tes Kemampuan Akademik",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaW.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaW.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal SBMPTN paket W tahun 2022"	  	  
     }
