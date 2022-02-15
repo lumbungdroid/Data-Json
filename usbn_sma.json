@@ -287,64 +287,533 @@
       "id":"38",
       "nama_quiz":"Ekonomi",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomi.html",
-      "color_quiz":"#00ff00",
+      "color_quiz":"#006400",
       "des_quiz":"Soal Ekonomi USBN paket A tahun 2022"
     },
     {
       "id":"39",
       "nama_quiz":"Ekonomi",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiA.html",
-      "color_quiz":"#00ff00",
+      "color_quiz":"#006400",
       "des_quiz":"Soal Ekonomi USBN paket B tahun 2022"
     },
     {
       "id":"40",
       "nama_quiz":"Ekonomi",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiB.html",
-      "color_quiz":"#00ff00",
+      "color_quiz":"#006400",
       "des_quiz":"Soal Ekonomi USBN paket C tahun 2022"
     },
     {
       "id":"41",
       "nama_quiz":"Ekonomi",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiC.html",
-      "color_quiz":"#00ff00",
+      "color_quiz":"#006400",
       "des_quiz":"Soal Ekonomi USBN paket D tahun 2022"
     },
     {
       "id":"42",
       "nama_quiz":"Ekonomi",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiD.html",
-      "color_quiz":"#00ff00",
+      "color_quiz":"#006400",
       "des_quiz":"Soal Ekonomi USBN paket E tahun 2022"	  
     },
     {
       "id":"43",
       "nama_quiz":"Ekonomi",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiKB.html",
-      "color_quiz":"#00ff00",
+      "color_quiz":"#006400",
       "des_quiz":"Soal Ekonomi USBN paket F tahun 2022"	 
     },
     {
       "id":"44",
       "nama_quiz":"Ekonomi",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiKC.html",
-      "color_quiz":"#00ff00",
+      "color_quiz":"#006400",
       "des_quiz":"Soal Ekonomi USBN paket G tahun 2022"	 
     },
     {
       "id":"45",
       "nama_quiz":"Ekonomi",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiTA.html",
-      "color_quiz":"#00ff00",
+      "color_quiz":"#006400",
       "des_quiz":"Soal Ekonomi USBN paket H tahun 2022"	 
     },
     {
       "id":"46",
       "nama_quiz":"Ekonomi",
       "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/ekonomiTB.html",
-      "color_quiz":"#00ff00",
-      "des_quiz":"Soal Ekonomi USBN paket I tahun 2022"	 	  	    
+      "color_quiz":"#006400",
+      "des_quiz":"Soal Ekonomi USBN paket I tahun 2022"	 	  
+    },
+    {
+      "id":"47",
+      "nama_quiz":"Sosiologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/sosiologi.html",
+      "color_quiz":"#808000",
+      "des_quiz":"Soal Sosiologi USBN paket A tahun 2022"
+    },
+    {
+      "id":"48",
+      "nama_quiz":"Sosiologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/sosiologiA.html",
+      "color_quiz":"#808000",
+      "des_quiz":"Soal Sosiologi USBN paket B tahun 2022"
+    },
+    {
+      "id":"49",
+      "nama_quiz":"Sosiologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/sosiologiB.html",
+      "color_quiz":"#808000",
+      "des_quiz":"Soal Sosiologi USBN paket C tahun 2022"
+    },
+    {
+      "id":"50",
+      "nama_quiz":"Sosiologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/sosiologiC.html",
+      "color_quiz":"#808000",
+      "des_quiz":"Soal Sosiologi USBN paket D tahun 2022"	  	
+    },
+    {
+      "id":"51",
+      "nama_quiz":"Sosiologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/sosiologiD.html",
+      "color_quiz":"#808000",
+      "des_quiz":"Soal Sosiologi USBN paket E tahun 2022"	  
+    },
+    {
+      "id":"52",
+      "nama_quiz":"Sosiologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/sosiologiKB.html",
+      "color_quiz":"#808000",
+      "des_quiz":"Soal Sosiologi USBN paket F tahun 2022"	
+    },
+    {
+      "id":"53",
+      "nama_quiz":"Sosiologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/sosiologiKC.html",
+      "color_quiz":"#808000",
+      "des_quiz":"Soal Sosiologi USBN paket G tahun 2022"	
+    },
+    {
+      "id":"54",
+      "nama_quiz":"Sosiologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/sosiologiKD.html",
+      "color_quiz":"#808000",
+      "des_quiz":"Soal Sosiologi USBN paket H tahun 2022"	
+    },
+    {
+      "id":"55",
+      "nama_quiz":"Sosiologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/sosiologiKE.html",
+      "color_quiz":"#808000",
+      "des_quiz":"Soal Sosiologi USBN paket I tahun 2022"	
+    },
+    {
+      "id":"56",
+      "nama_quiz":"Sosiologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/sosiologiTA.html",
+      "color_quiz":"#808000",
+      "des_quiz":"Soal Sosiologi USBN paket J tahun 2022"	
+    },
+    {
+      "id":"57",
+      "nama_quiz":"Sosiologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/sosiologiTB.html",
+      "color_quiz":"#808000",
+      "des_quiz":"Soal Sosiologi USBN paket K tahun 2022"		
+    },
+    {
+      "id":"58",
+      "nama_quiz":"Geografi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/geografi.html",
+      "color_quiz":"#800000",
+      "des_quiz":"Soal Geografi USBN paket A tahun 2022"
+    },
+    {
+      "id":"59",
+      "nama_quiz":"Geografi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/geografiA.html",
+      "color_quiz":"#800000",
+      "des_quiz":"Soal Geografi USBN paket B tahun 2022"
+    },
+    {
+      "id":"60",
+      "nama_quiz":"Geografi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/geografiB.html",
+      "color_quiz":"#800000",
+      "des_quiz":"Soal Geografi USBN paket C tahun 2022"
+    },
+    {
+      "id":"61",
+      "nama_quiz":"Geografi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/geografiC.html",
+      "color_quiz":"#800000",
+      "des_quiz":"Soal Geografi USBN paket D tahun 2022"	  	
+    },
+    {
+      "id":"62",
+      "nama_quiz":"Geografi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/geografiD.html",
+      "color_quiz":"#800000",
+      "des_quiz":"Soal Geografi USBN paket E tahun 2022"	  
+    },
+    {
+      "id":"63",
+      "nama_quiz":"Geografi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/geografiKB.html",
+      "color_quiz":"#800000",
+      "des_quiz":"Soal Geografi USBN paket F tahun 2022"	
+    },
+    {
+      "id":"64",
+      "nama_quiz":"Geografi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/geografiKC.html",
+      "color_quiz":"#800000",
+      "des_quiz":"Soal Geografi USBN paket G tahun 2022"	
+    },
+    {
+      "id":"65",
+      "nama_quiz":"Geografi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/geografiKD.html",
+      "color_quiz":"#800000",
+      "des_quiz":"Soal Geografi USBN paket H tahun 2022"	
+    },
+    {
+      "id":"66",
+      "nama_quiz":"Geografi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/geografiKE.html",
+      "color_quiz":"#800000",
+      "des_quiz":"Soal Geografi USBN paket I tahun 2022"	
+    },
+    {
+      "id":"67",
+      "nama_quiz":"Geografi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/geografiTA.html",
+      "color_quiz":"#800000",
+      "des_quiz":"Soal Geografi USBN paket J tahun 2022"	
+    },
+    {
+      "id":"68",
+      "nama_quiz":"Geografi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/geografiTB.html",
+      "color_quiz":"#800000",
+      "des_quiz":"Soal Geografi USBN paket K tahun 2022"
+    },
+    {
+      "id":"69",
+      "nama_quiz":"Saintek",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/SaintekA.html",
+      "color_quiz":"#FF0000",
+      "des_quiz":"Soal SBMPTN paket A tahun 2022"
+    },
+    {
+      "id":"70",
+      "nama_quiz":"Saintek",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/SaintekB.html",
+      "color_quiz":"#FF0000",
+      "des_quiz":"Soal SBMPTN paket B tahun 2022"
+    },
+    {
+      "id":"71",
+      "nama_quiz":"Saintek",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/SaintekC.html",
+      "color_quiz":"#FF0000",
+      "des_quiz":"Soal SBMPTN paket C tahun 2022"	  	
+    },
+    {
+      "id":"72",
+      "nama_quiz":"Saintek",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/SaintekD.html",
+      "color_quiz":"#FF0000",
+      "des_quiz":"Soal SBMPTN paket D tahun 2022"	
+    },
+    {
+      "id":"73",
+      "nama_quiz":"Saintek",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/SaintekE.html",
+      "color_quiz":"#FF0000",
+      "des_quiz":"Soal SBMPTN paket E tahun 2022"	
+    },
+    {
+      "id":"74",
+      "nama_quiz":"Saintek",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/SaintekF.html",
+      "color_quiz":"#FF0000",
+      "des_quiz":"Soal SBMPTN paket F tahun 2022"
+    },
+    {
+      "id":"75",
+      "nama_quiz":"Saintek",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/SaintekG.html",
+      "color_quiz":"#FF0000",
+      "des_quiz":"Soal SBMPTN paket G tahun 2022"
+    },
+    {
+      "id":"76",
+      "nama_quiz":"Saintek",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/SaintekH.html",
+      "color_quiz":"#FF0000",
+      "des_quiz":"Soal SBMPTN paket H tahun 2022"	  	
+    },
+    {
+      "id":"77",
+      "nama_quiz":"Saintek",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/SaintekI.html",
+      "color_quiz":"#FF0000",
+      "des_quiz":"Soal SBMPTN paket I tahun 2022"	
+    },
+    {
+      "id":"78",
+      "nama_quiz":"Saintek",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/SaintekJ.html",
+      "color_quiz":"#FF0000",
+      "des_quiz":"Soal SBMPTN paket J tahun 2022"	
+    },
+    {
+      "id":"79",
+      "nama_quiz":"Saintek",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/SaintekK.html",
+      "color_quiz":"#FF0000",
+      "des_quiz":"Soal SBMPTN paket K tahun 2022"	  
+    },
+    {
+      "id":"80",
+      "nama_quiz":"Soshum",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/soshum.html",
+      "color_quiz":"#6633ff",
+      "des_quiz":"Soal SBMPTN paket A tahun 2022"
+    },
+    {
+      "id":"81",
+      "nama_quiz":"Soshum",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/soshumB.html",
+      "color_quiz":"#6633ff",
+      "des_quiz":"Soal SBMPTN paket B tahun 2022"
+    },
+    {
+      "id":"82",
+      "nama_quiz":"Soshum",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/soshumC.html",
+      "color_quiz":"#6633ff",
+      "des_quiz":"Soal SBMPTN paket C tahun 2022"	  	
+    },
+    {
+      "id":"83",
+      "nama_quiz":"Soshum",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/soshumD.html",
+      "color_quiz":"#6633ff",
+      "des_quiz":"Soal SBMPTN paket D tahun 2022"	
+    },
+    {
+      "id":"84",
+      "nama_quiz":"Soshum",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/soshumE.html",
+      "color_quiz":"#6633ff",
+      "des_quiz":"Soal SBMPTN paket E tahun 2022"	
+    },
+    {
+      "id":"85",
+      "nama_quiz":"Soshum",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/soshumF.html",
+      "color_quiz":"#6633ff",
+      "des_quiz":"Soal SBMPTN paket F tahun 2022"
+    },
+    {
+      "id":"86",
+      "nama_quiz":"Soshum",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/soshumG.html",
+      "color_quiz":"#6633ff",
+      "des_quiz":"Soal SBMPTN paket G tahun 2022"
+    },
+    {
+      "id":"87",
+      "nama_quiz":"Soshum",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/soshumH.html",
+      "color_quiz":"#6633ff",
+      "des_quiz":"Soal SBMPTN paket H tahun 2022"	  	
+    },
+    {
+      "id":"88",
+      "nama_quiz":"Soshum",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/soshumI.html",
+      "color_quiz":"#6633ff",
+      "des_quiz":"Soal SBMPTN paket I tahun 2022"	
+    },
+    {
+      "id":"89",
+      "nama_quiz":"Soshum",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/soshumJ.html",
+      "color_quiz":"#6633ff",
+      "des_quiz":"Soal SBMPTN paket J tahun 2022"	
+    },
+    {
+      "id":"90",
+      "nama_quiz":"Soshum",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/soshumK.html",
+      "color_quiz":"#6633ff",
+      "des_quiz":"Soal SBMPTN paket K tahun 2022"	  
+    },
+    {
+      "id":"91",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpa.html",
+      "color_quiz":"#3333cc",
+      "des_quiz":"Soal SBMPTN paket A tahun 2022"
+    },
+    {
+      "id":"92",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaB.html",
+      "color_quiz":"#3333cc",
+      "des_quiz":"Soal SBMPTN paket B tahun 2022"
+    },
+    {
+      "id":"93",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaC.html",
+      "color_quiz":"#3333cc",
+      "des_quiz":"Soal SBMPTN paket C tahun 2022"	  	
+    },
+    {
+      "id":"94",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaD.html",
+      "color_quiz":"#3333cc",
+      "des_quiz":"Soal SBMPTN paket D tahun 2022"	
+    },
+    {
+      "id":"95",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaE.html",
+      "color_quiz":"#3333cc",
+      "des_quiz":"Soal SBMPTN paket E tahun 2022"	
+    },
+    {
+      "id":"96",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaF.html",
+      "color_quiz":"#3333cc",
+      "des_quiz":"Soal SBMPTN paket F tahun 2022"
+    },
+    {
+      "id":"97",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaG.html",
+      "color_quiz":"#3333cc",
+      "des_quiz":"Soal SBMPTN paket G tahun 2022"
+    },
+    {
+      "id":"98",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaH.html",
+      "color_quiz":"#3333cc",
+      "des_quiz":"Soal SBMPTN paket H tahun 2022"	  	
+    },
+    {
+      "id":"99",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaI.html",
+      "color_quiz":"#3333cc",
+      "des_quiz":"Soal SBMPTN paket I tahun 2022"	
+    },
+    {
+      "id":"100",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/tpaJ.html",
+      "color_quiz":"#3333cc",
+      "des_quiz":"Soal SBMPTN paket J tahun 2022"	
+    },
+    {
+      "id":"101",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaK.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket K tahun 2022"	  
+    },
+    {
+      "id":"102",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaL.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket L tahun 2022"
+    },
+    {
+      "id":"103",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaM.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket M tahun 2022"
+    },
+    {
+      "id":"104",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaN.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket N tahun 2022"	  	
+    },
+    {
+      "id":"105",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaO.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket O tahun 2022"	
+    },
+    {
+      "id":"106",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaP.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket P tahun 2022"	
+    },
+    {
+      "id":"107",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaQ.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket Q tahun 2022"
+    },
+    {
+      "id":"108",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaR.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket R tahun 2022"
+    },
+    {
+      "id":"109",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaS.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket S tahun 2022"	  	
+    },
+    {
+      "id":"110",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaT.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket T tahun 2022"	
+    },
+    {
+      "id":"111",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaU.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket U tahun 2022"	
+    },
+    {
+      "id":"112",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaV.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket V tahun 2022"	
+    },
+    {
+      "id":"113",
+      "nama_quiz":"Tes Kemampuan Akademik",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/TpaW.html",
+      "color_quiz":"#ff4500",
+      "des_quiz":"Soal SBMPTN paket W tahun 2022"	  	    
     }
   ]
 }
