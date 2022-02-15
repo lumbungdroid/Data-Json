@@ -26,108 +26,178 @@
   [
     {
       "id":"1",
-      "nama_quiz":"Ilmu Pengetahun Alam",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/IPA.html",
-      "color_quiz":"#e74c3c",
-      "des_quiz":"Soal Ilmu Pengetahun Alam USBN paket A tahun 2022"
-    },
-    {
-      "id":"2",
-      "nama_quiz":"Ilmu Pengetahun Alam",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/IPAb.html",
-      "color_quiz":"#e74c3c",
-      "des_quiz":"Soal Ilmu Pengetahun Alam USBN paket B tahun 2022"
-    },
-    {
-      "id":"3",
-      "nama_quiz":"Ilmu Pengetahun Alam",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/IPAc.html",
-      "color_quiz":"#e74c3c",
-      "des_quiz":"Soal Ilmu Pengetahun Alam USBN paket C tahun 2022"
-    },
-    {
-      "id":"4",
-      "nama_quiz":"Ilmu Pengetahun Alam",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/IPAd.html",
-      "color_quiz":"#e74c3c",
-      "des_quiz":"Soal Ilmu Pengetahun Alam USBN paket D tahun 2022"
-    },
-    {
-      "id":"5",
-      "nama_quiz":"Ilmu Pengetahun Alam",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/IPAe.html",
-      "color_quiz":"#e74c3c",
-      "des_quiz":"Soal Ilmu Pengetahun Alam USBN paket E tahun 2022"	  
-    },
-    {
-      "id":"6",
       "nama_quiz":"Bahasa Indonesia",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/indo.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/indo.html",
       "color_quiz":"#1abc9c",
       "des_quiz":"Soal Bahasa Indonesia USBN paket A tahun 2022"
     },
     {
-      "id":"7",
+      "id":"2",
       "nama_quiz":"Bahasa Indonesia",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/indob.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/indoB.html",
       "color_quiz":"#1abc9c",
       "des_quiz":"Soal Bahasa Indonesia USBN paket B tahun 2022"
     },
     {
-      "id":"8",
+      "id":"3",
       "nama_quiz":"Bahasa Indonesia",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/indoc.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/indoC.html",
       "color_quiz":"#1abc9c",
       "des_quiz":"Soal Bahasa Indonesia USBN paket C tahun 2022"
     },
     {
-      "id":"9",
+      "id":"4",
       "nama_quiz":"Bahasa Indonesia",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/indod.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/indoD.html",
       "color_quiz":"#1abc9c",
       "des_quiz":"Soal Bahasa Indonesia USBN paket D tahun 2022"
+    },
+    {
+      "id":"5",
+      "nama_quiz":"Bahasa Indonesia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/indoTA.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Indonesia USBN paket E tahun 2022"
+    },
+    {
+      "id":"6",
+      "nama_quiz":"Bahasa Indonesia",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/indoTB.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Indonesia USBN paket F tahun 2022"
+    },
+    {	  
+	  "id":"7",
+      "nama_quiz":"Biologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/biologi.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Biologi USBN paket A tahun 2022"
+    },
+    {
+      "id":"8",
+      "nama_quiz":"Biologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/biologiB.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Biologi USBN paket B tahun 2022"
+    },
+    {
+      "id":"9",
+      "nama_quiz":"Biologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/biologiC.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Biologi USBN paket C tahun 2022"
     },
     {
       "id":"10",
-      "nama_quiz":"Bahasa Indonesia",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/indoe.html",
-      "color_quiz":"#1abc9c",
-      "des_quiz":"Soal Bahasa Indonesia USBN paket D tahun 2022"
+      "nama_quiz":"Biologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/biologiD.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Biologi USBN paket D tahun 2022"
     },
     {
       "id":"11",
-      "nama_quiz":"Matematika",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/mtk.html",
-      "color_quiz":"#3498db",
-      "des_quiz":"Soal Matematika USBN paket A tahun 2022"
+      "nama_quiz":"Biologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/biologiE.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Biologi USBN paket E tahun 2022"
     },
     {
       "id":"12",
-      "nama_quiz":"Matematika",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/mtkb.html",
-      "color_quiz":"#3498db",
-      "des_quiz":"Soal Matematika USBN paket B tahun 2022"
+      "nama_quiz":"Biologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/biologiTA.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Biologi USBN paket F tahun 2022"
     },
     {
-      "id":"13",
-      "nama_quiz":"Matematika",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/mtkc.html",
-      "color_quiz":"#3498db",
-      "des_quiz":"Soal Matematika USBN paket C tahun 2022"
+     "id":"13",
+      "nama_quiz":"Biologi",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/biologiTB.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Biologi USBN paket G tahun 2022"	
     },
     {
       "id":"14",
       "nama_quiz":"Matematika",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/mtkd.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkIpa.html",
       "color_quiz":"#3498db",
-      "des_quiz":"Soal Matematika USBN paket D tahun 2022"
+      "des_quiz":"Soal Matematika USBN paket A tahun 2022"
     },
     {
       "id":"15",
       "nama_quiz":"Matematika",
-      "quiz_url":"https://lumbungdroid.my.id/Soal/SD/mtke.html",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkIpaB.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket B tahun 2022"
+    },
+    {
+      "id":"16",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkIpaC.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket C tahun 2022"
+    },
+    {
+      "id":"17",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkIpaTA.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket D tahun 2022"
+    },
+    {
+      "id":"18",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkips.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket A tahun 2022"
+    },
+    {
+      "id":"19",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkipsB.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket B tahun 2022"
+    },
+    {
+      "id":"20",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkipsC.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket C tahun 2022"
+    },
+    {
+      "id":"21",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkipsD.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket D tahun 2022"
+    },
+    {
+      "id":"22",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkipsE.html",
       "color_quiz":"#3498db",
       "des_quiz":"Soal Matematika USBN paket E tahun 2022"
+    },
+    {
+      "id":"23",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkipsF.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket F tahun 2022"
+    },
+    {
+      "id":"24",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkipsG.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket G tahun 2022"
+    },
+    {
+      "id":"25",
+      "nama_quiz":"Matematika",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/SMA/mtkipsTB.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Matematika USBN paket H tahun 2022"
     }
   ]
 }
