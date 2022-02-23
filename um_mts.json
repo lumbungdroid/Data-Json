@@ -1,0 +1,119 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "interid": "",
+        "nativeid": "",
+        "openid":"",
+        "bannerid":"",
+        "interval": 1,
+        "pengaturan_iklan":"1",
+        "startappid":"123456789",
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_banner_native":"YOUR_PLACEMENT_ID",
+        "fan_banner":"YOUR_PLACEMENT_ID",
+        "mopub_banner":"",
+        "mopub_inter":""
+
+     
+        }
+    ],
+
+
+  "Qiuz":
+  [
+    {
+      "id":"1",
+      "nama_quiz":"Akidah Akhlak",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/aqidah.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Akidah Akhlak UM paket 1 tahun 2022"
+    },
+    {
+      "id":"2",
+      "nama_quiz":"Akidah Akhlak",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/aqidah2.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Akidah Akhlak UM paket 2 tahun 2022"
+    },
+    {
+      "id":"3",
+      "nama_quiz":"Akidah Akhlak",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/aqidah3.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Akidah Akhlak UM paket 3 tahun 2022"
+    },
+    {
+      "id":"4",
+      "nama_quiz":"Akidah Akhlak",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/aqidah4.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Akidah Akhlak UM paket 4 tahun 2022"
+    },
+    {
+      "id":"5",
+      "nama_quiz":"Akidah Akhlak",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/aqidah5.html",
+      "color_quiz":"#e74c3c",
+      "des_quiz":"Soal Akidah Akhlak UM paket 5 tahun 2022"	  
+    },
+    {
+      "id":"6",
+      "nama_quiz":"Bahasa Arab",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/arab.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Arab UM paket A tahun 2022"
+    },
+    {
+      "id":"7",
+      "nama_quiz":"Bahasa Arab",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/arab2.html",
+      "color_quiz":"#1abc9c",
+      "des_quiz":"Soal Bahasa Arab UM paket B tahun 2022"
+    },
+    {
+      "id":"8",
+      "nama_quiz":"Fikih",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/fikih.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Fikih UM paket A tahun 2022"
+    },
+    {
+      "id":"9",
+      "nama_quiz":"Fikih",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/fikih2.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Fikih UM paket B tahun 2022"
+    },
+    {
+      "id":"10",
+      "nama_quiz":"Qur'an Hadits",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/quran.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Qur'an Hadits UM paket 1 tahun 2022"
+    },
+    {
+      "id":"11",
+      "nama_quiz":"Qur'an Hadits",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/quran2.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal Qur'an Hadits UM paket 2 tahun 2022"
+    },
+    {
+      "id":"12",
+      "nama_quiz":"SKI",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/SKI.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal SKI UM paket 1 tahun 2022"
+    },
+    {
+      "id":"13",
+      "nama_quiz":"SKI",
+      "quiz_url":"https://lumbungdroid.my.id/Soal/MTs/SKI2.html",
+      "color_quiz":"#3498db",
+      "des_quiz":"Soal SKI UM paket 2 tahun 2022"	  
+    }
+  ]
+}
