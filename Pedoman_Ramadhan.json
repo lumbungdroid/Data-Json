@@ -256,25 +256,7 @@
       "title": "Idul Fitri": "HTML",
       "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/idul_fitri.jpg",
       "description": "Seputar Idul Fitri",
-      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/Idul_Fitri.html"
-    },
-    {
-      "id": 20,
-      "name_category": "Khutbah Idul Fitri",
-      "title": "Alien Guide Json V6.0",
-      "type_file": "PDF",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/khutbah_idul_fitri.jpg",
-      "description": "Contoh guide dengan link pdf, fitur ini hanya untuk file online",
-      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/tata_cara_terawih.html"	  
-    },
-    {
-      "id": 21,
-      "name_category": "Kajian Seputar Ramadhan",
-      "title": "Alien Guide Json V6.0",
-      "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/kajian_ramadhan.jpg",
-      "description": "Contoh guide dengan link pdf, fitur ini hanya untuk file online",
-      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/tata_cara_terawih.html"	  
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/Idul_Fitri.html"  
     }
   ]
 }
