@@ -44,41 +44,17 @@
       "title": "iTwibbon Hari Raya Idul Fitri",
       "image": "https://play-lh.googleusercontent.com/lOivFz8nzaS_p2rd8I_C80PBGu59OFWjfK8Iy7vsNSDGqWBCvbYI-Frgm7oSEkbv0R8=w720-h310-rw",
       "link": "https://play.google.com/store/apps/details?id=com.lumbungdroid.twibbonidulfitri"
-    },
-    {
-      "id": 6,
-      "title": "Super Math Solver Calculator",
-      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
-    },
-    {
-      "id": 8,
-      "title": "Twibbon Maker",
-      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
-    },
-    {
-      "id": 9,
-      "title": "Kamus Bahasa Indonesia",
-      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
-    },
-    {
-      "id": 10,
-      "title": "Data Gempabumi Terbuka",
-      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
     }
   ],
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
+      "name_category": "Sebelum Puasa",
       "image": "file:///android_asset/category/sebelum_puasa.jpg"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
+      "name_category": "Puasa",
       "image": "file:///android_asset/category/puasa.jpg"
     },
     {
@@ -95,24 +71,141 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safety",
+      "name_category": "Sebelum Puasa",
+      "title": "Persiapan Menghadapi Bulan Ramadhan",
       "type_file": "HTML",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Contoh guide offline dengan ektensi *.html, file tersimpan di folder asset",
-      "link": "file:///android_asset/guide/guide1.html"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide1.jpg",
+      "description": "Perkara-perkara yang harus dilakukan sebelum menjalankan ibadah Puasa Ramadhan",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/sebelum_puasa.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "name_category": "Puasa",
+      "title": "Hukum Puasa",
       "type_file": "HTML",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Contoh guide dengan penulisan format HTML, bisa disimpan pada json online dan offline",
-      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Hukum Puasa Ramadhan",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/1.hukum_puasa.html"
     },
     {
       "id": 3,
+      "name_category": "Puasa",
+      "title": "Makna Puasa",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Makna puasa menurut bahasa dan istilah",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/2.makna_puasa.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Puasa",
+      "title": "Niat Puasa",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Niat Puasa Ramdahan",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/3.niat_puasa.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Puasa",
+      "title": "Rukun Puasa",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Rukun-rukun Puasa Ramadhan",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/4.rukun_puasa.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Puasa",
+      "title": "Syarat Wajib Puasa",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Syarat-syarat Wajib Puasa Ramadhan",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/5.syarat_wajib_puasa.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Puasa",
+      "title": "Macam-macam Puasa",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Macam-macam Puasa",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/6.macam_puasa.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Puasa",
+      "title": "Doa-Doa Puasa",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Doa-doa pada Puasa Ramadhan dari hari ke 1 sampai hari ke 30",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/7.doa_puasa.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Puasa",
+      "title": "Adab-Adab Seputar Berbuka",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Adab-Adab Seputar Berbuka pada Puasa Ramadhan dan Puasa lainnya",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/8.adab_berbuka.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Puasa",
+      "title": "Hal-Hal yang Membatalkan Puasa",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Perkara-perkara yang membatalkan puasa yang perlu dihindari",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/9.hal_membatalkan.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Puasa",
+      "title": "Hukum dan Adab Seputar Sahur",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Hukum dan Adab Seputar Sahur",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/10.hukum_adab_sahur.html"	  
+    },
+    {
+      "id": 12,
+      "name_category": "Puasa",
+      "title": "Hikmah Puasa",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Hikmah Puasa Ramadhan dari hari ke 1 sampai hari ke 30",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/11.hikmah_puasa.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Puasa",
+      "title": "Kegiatan Positif Bulan Ramadhan",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Amalan positif yang perlu dijalankan pada Bulan Ramadhan",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/12.amalan_di_bulan_puasa.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Puasa",
+      "title": "Keutamaan Puasa",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Beberapa hikmah dan keutamaan Puasa Ramdahan yang perlu diketahui",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/13.hikmah_keutamaan_puasa.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Puasa",
+      "title": "Perkara yang Merusak Pahala Puasa",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide2.jpg",
+      "description": "Beberapa perkara yang dapat merusak pahala meski puasanya sah. Perkara-perkara inilah pembatal pahala puasa yang dengannya seorang kehilangan keutamaan berpuasa dan hanya mendapatkan rasa lapar dan dahaga saja",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/14.perkara_merusak_pahala.html"	   
+    },
+    {
+      "id": 17,
       "name_category": "Reskin",
       "title": "Modul Simpan Json di Hosting dan Google Drive",
       "type_file": "HTML",
@@ -121,7 +214,7 @@
       "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
     },
     {
-      "id": 4,
+      "id": 18,
       "name_category": "Reskin",
       "title": "Cara koneksi Admob ke Firebase dan membuat notifikasi Cloud Messaging",
       "type_file": "YOUTUBE",
@@ -130,7 +223,7 @@
       "link": "85KLXstOeU4"
     },
     {
-      "id": 5,
+      "id": 19,
       "name_category": "Source Code",
       "title": "Trik mengganti icon di Android Studio Artic Fox",
       "type_file": "VIDEO",
@@ -139,7 +232,7 @@
       "link": "https://aliendro.id/uploads/demo/premiumguide/latihan.mp4"
     },
     {
-      "id": 6,
+      "id": 20,
       "name_category": "Source Code",
       "title": "Alien Guide Json V6.0",
       "type_file": "PDF",
