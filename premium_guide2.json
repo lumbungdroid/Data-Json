@@ -81,6 +81,16 @@
       "id": 7,
       "name_category": "Khutbah Idul Fitri",
       "image": "file:///android_asset/category/khutbah_idul_fitri.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Reskin",
+      "image": "file:///android_asset/category/category.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Source Code",
+      "image": "file:///android_asset/category/category2.jpg"
     }
   ],
   "Data": [
@@ -256,8 +266,35 @@
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/Idul_Fitri.html"  
     },
     {
-      "id": 20,
-      "name_category": "Khutbah Idul Fitri",
+      "id": 23,
+      "name_category": "Reskin",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "type_file": "HTML",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Contoh guide online dengan ektensi *.html, file tersimpan di hosting, dll",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 24,
+      "name_category": "Reskin",
+      "title": "Cara koneksi Admob ke Firebase dan membuat notifikasi Cloud Messaging",
+      "type_file": "YOUTUBE",
+      "image": "https://firebase.google.com/docs/cloud-messaging/images/diagram-FCM.png?hl=id",
+      "description": "Contoh guide dengan link (ID) video dari youtube, silahkan gunakan API Key",
+      "link": "85KLXstOeU4"
+    },
+    {
+      "id": 25,
+      "name_category": "Source Code",
+      "title": "Trik mengganti icon di Android Studio Artic Fox",
+      "type_file": "VIDEO",
+      "image": "https://aliendro.id/uploads/demo/premiumguide/icon.png",
+      "description": "Contoh guide dengan link video (online), support berbagai format video menggunakan exopalyer",
+      "link": "https://aliendro.id/uploads/demo/premiumguide/latihan.mp4"
+    },
+    {
+      "id": 26,
+      "name_category": "Source Code",
       "title": "Alien Guide Json V6.0",
       "type_file": "PDF",
       "image": "https://aliendro.id/uploads/images/202202/img_x500_62187f91d1c888-80269870-13045913.jpeg",
