@@ -50,44 +50,43 @@
     {
       "id": 1,
       "name_category": "Sebelum Puasa",
-      "image": "file://android_asset/category/sebelum_puasa.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/sebelum_puasa.jpg"
     },
     {
       "id": 2,
       "name_category": "Puasa",
-      "image": "file://android_asset/category/puasa.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/puasa.jpg"
     },
     {
       "id": 3,
       "name_category": "Sholat Tarawih",
-      "image": "file://android_asset/category/Sholat_teraweh.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/Sholat_teraweh.jpg"
     },
     {
       "id": 4,
       "name_category": "I'tikaf",
-      "image": "file://android_asset/category/itikaf.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/itikaf.jpg"
     },
     {
       "id": 5,
       "name_category": "Zakat",
-      "image": "file://android_asset/category/zakat.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/zakat.jpg"
     },
     {
       "id": 6,
       "name_category": "Idul Fitri",
-      "image": "file://android_asset/category/idul_fitri.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/idul_fitri.jpg"
     {
       "id": 7,
       "name_category": "Khutbah Idul Fitri",
-      "image": "file://android_asset/category/khutbah_idul_fitri.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/khutbah_idul_fitri.jpg"
     },
     {
       "id": 8,
       "name_category": "Kajian Seputar Ramadhan",
-      "image": "file://android_asset/category/kajian_ramadhan.jpg"	  
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/kajian_ramadhan.jpg"	  
     }
   ],
-  
   "Data": [
     {
       "id": 1,
@@ -239,7 +238,7 @@
       "title": "tata_cara_terawih.html",
       "type_file": "HTML",
       "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/itikaf.jpg",
-      "description": "Contoh guide dengan link (ID) video dari youtube, silahkan gunakan API Key",
+      "description": "",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/itikaf.html"
     },
     {
@@ -257,7 +256,25 @@
       "title": "Idul Fitri": "HTML",
       "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/idul_fitri.jpg",
       "description": "Seputar Idul Fitri",
-      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/Idul_Fitri.html"  
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/Idul_Fitri.html"
+    },
+    {
+      "id": 20,
+      "name_category": "Khutbah Idul Fitri",
+      "title": "Alien Guide Json V6.0",
+      "type_file": "PDF",
+      "image": "https://aliendro.id/uploads/images/202202/img_x500_62187f91d1c888-80269870-13045913.jpeg",
+      "description": "Contoh guide dengan link pdf, fitur ini hanya untuk file online",
+      "link": "https://aliendro.id/uploads/demo/premiumguide/scguide.pdf"	  
+    },
+    {
+      "id": 21,
+      "name_category": "Kajian Seputar Ramadhan",
+      "title": "Alien Guide Json V6.0",
+      "type_file": "VIDEO",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/kajian_ramadhan.jpg",
+      "description": "Contoh guide dengan link video (online), support berbagai format video menggunakan exopalyer",
+      "link": "https://aliendro.id/uploads/demo/premiumguide/latihan.mp4"	  
     }
   ]
 }
