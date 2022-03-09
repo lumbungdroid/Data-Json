@@ -74,22 +74,22 @@
     {
       "id": 1,
       "name_category": "Playstore",
-      "image": "file:///android_asset/category/category.jpg"
+      "image": "file:///android_asset/category/sebelum_puasa.jpg"
     },
     {
       "id": 2,
       "name_category": "Tutorial",
-      "image": "file:///android_asset/category/category2.jpg"
+      "image": "file:///android_asset/category/puasa.jpg"
     },
     {
       "id": 3,
       "name_category": "Reskin",
-      "image": "file:///android_asset/category/category3.jpg"
+      "image": "file:///android_asset/category/Sholat_teraweh.jpg"
     },
     {
       "id": 4,
       "name_category": "Source Code",
-      "image": "file:///android_asset/category/category4.jpg"
+      "image": "file:///android_asset/category/itikaf.jpg"
     }
   ],
   "Data": [
