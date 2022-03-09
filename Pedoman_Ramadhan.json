@@ -50,42 +50,41 @@
     {
       "id": 1,
       "name_category": "Sebelum Puasa",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/category.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/sebelum_puasa.jpg"
     },
     {
       "id": 2,
       "name_category": "Puasa",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/category2.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/puasa.jpg"
     },
     {
       "id": 3,
       "name_category": "Sholat Tarawih",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/category3.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/Sholat_teraweh.jpg"
     },
     {
       "id": 4,
       "name_category": "I'tikaf",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/category4.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/itikaf.jpg"
     },
     {
       "id": 5,
       "name_category": "Zakat",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/category4.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/zakat.jpg"
     },
     {
       "id": 6,
       "name_category": "Idul Fitri",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/category4.jpg"
-    },
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/idul_fitri.jpg
     {
       "id": 7,
       "name_category": "Khutbah Idul Fitri",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/category4.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/khutbah_idul_fitri.jpg"
     },
     {
       "id": 8,
       "name_category": "Kajian Seputar Ramadhan",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/category4.jpg"	  
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/kajian_ramadhan.jpg"	  
     }
   ],
   "Data": [
@@ -103,7 +102,7 @@
       "name_category": "Puasa",
       "title": "Hukum Puasa",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Hukum Puasa Ramadhan",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/1.hukum_puasa.html"
     },
@@ -112,7 +111,7 @@
       "name_category": "Puasa",
       "title": "Makna Puasa",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Makna puasa menurut bahasa dan istilah",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/2.makna_puasa.html"
     },
@@ -121,7 +120,7 @@
       "name_category": "Puasa",
       "title": "Niat Puasa",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Niat Puasa Ramdahan",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/3.niat_puasa.html"
     },
@@ -130,7 +129,7 @@
       "name_category": "Puasa",
       "title": "Rukun Puasa",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Rukun-rukun Puasa Ramadhan",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/4.rukun_puasa.html"
     },
@@ -139,7 +138,7 @@
       "name_category": "Puasa",
       "title": "Syarat Wajib Puasa",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Syarat-syarat Wajib Puasa Ramadhan",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/5.syarat_wajib_puasa.html"
     },
@@ -148,7 +147,7 @@
       "name_category": "Puasa",
       "title": "Macam-macam Puasa",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Macam-macam Puasa",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/6.macam_puasa.html"
     },
@@ -157,7 +156,7 @@
       "name_category": "Puasa",
       "title": "Doa-Doa Puasa",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Doa-doa pada Puasa Ramadhan dari hari ke 1 sampai hari ke 30",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/7.doa_puasa.html"
     },
@@ -166,7 +165,7 @@
       "name_category": "Puasa",
       "title": "Adab-Adab Seputar Berbuka",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Adab-Adab Seputar Berbuka pada Puasa Ramadhan dan Puasa lainnya",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/8.adab_berbuka.html"
     },
@@ -175,7 +174,7 @@
       "name_category": "Puasa",
       "title": "Hal-Hal yang Membatalkan Puasa",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Perkara-perkara yang membatalkan puasa yang perlu dihindari",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/9.hal_membatalkan.html"
     },
@@ -184,7 +183,7 @@
       "name_category": "Puasa",
       "title": "Hukum dan Adab Seputar Sahur",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Hukum dan Adab Seputar Sahur",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/10.hukum_adab_sahur.html"	  
     },
@@ -193,7 +192,7 @@
       "name_category": "Puasa",
       "title": "Hikmah Puasa",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Hikmah Puasa Ramadhan dari hari ke 1 sampai hari ke 30",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/11.hikmah_puasa.html"
     },
@@ -202,7 +201,7 @@
       "name_category": "Puasa",
       "title": "Kegiatan Positif Bulan Ramadhan",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Amalan positif yang perlu dijalankan pada Bulan Ramadhan",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/12.amalan_di_bulan_puasa.html"
     },
@@ -211,7 +210,7 @@
       "name_category": "Puasa",
       "title": "Keutamaan Puasa",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Beberapa hikmah dan keutamaan Puasa Ramdahan yang perlu diketahui",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/13.hikmah_keutamaan_puasa.html"
     },
@@ -220,7 +219,7 @@
       "name_category": "Puasa",
       "title": "Perkara yang Merusak Pahala Puasa",
       "type_file": "HTML",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/guide2.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg",
       "description": "Beberapa perkara yang dapat merusak pahala meski puasanya sah. Perkara-perkara inilah pembatal pahala puasa yang dengannya seorang kehilangan keutamaan berpuasa dan hanya mendapatkan rasa lapar dan dahaga saja",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/14.perkara_merusak_pahala.html"	   
     },
@@ -229,7 +228,7 @@
       "name_category": "Sholat Tarawih",
       "title": "Tata Cara Sholat Tarawih dan Witir",
       "type_file": "HTML",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Sholat_teraweh.jpg",
       "description": "Contoh guide online dengan ektensi *.html, file tersimpan di hosting, dll",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/tata_cara_terawih.html"
     },
@@ -238,7 +237,7 @@
       "name_category": "I'tikaf",
       "title": "tata_cara_terawih.html",
       "type_file": "HTML",
-      "image": "https://firebase.google.com/docs/cloud-messaging/images/diagram-FCM.png?hl=id",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/itikaf.jpg",
       "description": "Contoh guide dengan link (ID) video dari youtube, silahkan gunakan API Key",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/itikaf.html"
     },
@@ -247,7 +246,7 @@
       "name_category": "Zakat",
       "title": "Zakat Fitrah dan Zakat Mal",
       "type_file": "HTML",
-      "image": "https://aliendro.id/uploads/demo/premiumguide/icon.png",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/zakat.jpg",
       "description": "Seputar zakat fitrah dan zakat mal",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/zakat_fitrah_mal.html"
     },
@@ -255,7 +254,7 @@
       "id": 19,
       "name_category": "Idul Fitri",
       "title": "Idul Fitri": "HTML",
-      "image": "https://aliendro.id/uploads/images/202202/img_x500_62187f91d1c888-80269870-13045913.jpeg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/idul_fitri.jpg",
       "description": "Seputar Idul Fitri",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/Idul_Fitri.html"
     },
@@ -264,7 +263,7 @@
       "name_category": "Khutbah Idul Fitri",
       "title": "Alien Guide Json V6.0",
       "type_file": "PDF",
-      "image": "https://aliendro.id/uploads/images/202202/img_x500_62187f91d1c888-80269870-13045913.jpeg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/khutbah_idul_fitri.jpg",
       "description": "Contoh guide dengan link pdf, fitur ini hanya untuk file online",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/tata_cara_terawih.html"	  
     },
@@ -273,7 +272,7 @@
       "name_category": "Kajian Seputar Ramadhan",
       "title": "Alien Guide Json V6.0",
       "type_file": "HTML",
-      "image": "https://aliendro.id/uploads/images/202202/img_x500_62187f91d1c888-80269870-13045913.jpeg",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/kajian_ramadhan.jpg",
       "description": "Contoh guide dengan link pdf, fitur ini hanya untuk file online",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/tata_cara_terawih.html"	  
     }
