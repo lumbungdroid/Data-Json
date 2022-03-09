@@ -64,7 +64,7 @@
     },
     {
       "id": 4,
-      "name_category": "I'tikaf",
+      "name_category": "Itikaf",
       "image": "file:///android_asset/category/itikaf.jpg"
     },
     {
@@ -230,7 +230,7 @@
     },
     {
       "id": 17,
-      "name_category": "I'tikaf",
+      "name_category": "Itikaf",
       "title": "I'tikaf",
       "type_file": "HTML",
       "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide4.jpg",
@@ -250,7 +250,7 @@
       "id": 19,
       "name_category": "Idul Fitri",
       "title": "Idul Fitri"
-	    "type_file": "HTML",
+      "type_file": "HTML",
       "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide1.jpg",
       "description": "Seputar Idul Fitri",
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/Idul_Fitri.html"  
