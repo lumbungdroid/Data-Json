@@ -59,13 +59,28 @@
     },
     {
       "id": 3,
-      "name_category": "Reskin",
+      "name_category": "Sholat Tarawih",
       "image": "file:///android_asset/category/Sholat_teraweh.jpg"
     },
     {
       "id": 4,
-      "name_category": "Source Code",
+      "name_category": "I'tikaf",
       "image": "file:///android_asset/category/itikaf.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Zakat",
+      "image": "file:///android_asset/category/zakat.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Idul Fitri",
+      "image": "file:///android_asset/category/idul_fitri.jpg" 
+    },
+    {
+      "id": 7,
+      "name_category": "Khutbah Idul Fitri",
+      "image": "file:///android_asset/category/khutbah_idul_fitri.jpg"
     }
   ],
   "Data": [
@@ -205,35 +220,44 @@
       "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/14.perkara_merusak_pahala.html"	   
     },
     {
-      "id": 17,
-      "name_category": "Reskin",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "id": 16,
+      "name_category": "Sholat Tarawih",
+      "title": "Tata Cara Sholat Tarawih dan Witir",
       "type_file": "HTML",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Contoh guide online dengan ektensi *.html, file tersimpan di hosting, dll",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide8.jpg",
+      "description": "Tata cara pelaksanaan sholat tarawih",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/tata_cara_terawih.html"
+    },
+    {
+      "id": 17,
+      "name_category": "I'tikaf",
+      "title": "I'tikaf",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide4.jpg",
+      "description": "Pengertian dan pedoman pelaksanaan i'tikaf",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/itikaf.html"	
     },
     {
       "id": 18,
-      "name_category": "Reskin",
-      "title": "Cara koneksi Admob ke Firebase dan membuat notifikasi Cloud Messaging",
-      "type_file": "YOUTUBE",
-      "image": "https://firebase.google.com/docs/cloud-messaging/images/diagram-FCM.png?hl=id",
-      "description": "Contoh guide dengan link (ID) video dari youtube, silahkan gunakan API Key",
-      "link": "85KLXstOeU4"
+      "name_category": "Zakat",
+      "title": "Zakat Fitrah dan Zakat Mal",
+      "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide3.jpg",
+      "description": "Seputar zakat fitrah dan zakat mal",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/zakat_fitrah_mal.html"
     },
     {
       "id": 19,
-      "name_category": "Source Code",
-      "title": "Trik mengganti icon di Android Studio Artic Fox",
-      "type_file": "VIDEO",
-      "image": "https://aliendro.id/uploads/demo/premiumguide/icon.png",
-      "description": "Contoh guide dengan link video (online), support berbagai format video menggunakan exopalyer",
-      "link": "https://aliendro.id/uploads/demo/premiumguide/latihan.mp4"
+      "name_category": "Idul Fitri",
+      "title": "Idul Fitri"
+	    "type_file": "HTML",
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Slide1.jpg",
+      "description": "Seputar Idul Fitri",
+      "link": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/Idul_Fitri.html"  
     },
     {
       "id": 20,
-      "name_category": "Source Code",
+      "name_category": "Khutbah Idul Fitri",
       "title": "Alien Guide Json V6.0",
       "type_file": "PDF",
       "image": "https://aliendro.id/uploads/images/202202/img_x500_62187f91d1c888-80269870-13045913.jpeg",
