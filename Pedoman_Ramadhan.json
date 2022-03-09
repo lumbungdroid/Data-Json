@@ -50,41 +50,41 @@
     {
       "id": 1,
       "name_category": "Sebelum Puasa",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/sebelum_puasa.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/sebelum_puasa.jpg"
     },
     {
       "id": 2,
       "name_category": "Puasa",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/puasa.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/puasa.jpg"
     },
     {
       "id": 3,
       "name_category": "Sholat Tarawih",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/Sholat_teraweh.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/Sholat_teraweh.jpg"
     },
     {
       "id": 4,
       "name_category": "I'tikaf",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/itikaf.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/itikaf.jpg"
     },
     {
       "id": 5,
       "name_category": "Zakat",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/zakat.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/zakat.jpg"
     },
     {
       "id": 6,
       "name_category": "Idul Fitri",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/idul_fitri.jpg
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/idul_fitri.jpg
     {
       "id": 7,
       "name_category": "Khutbah Idul Fitri",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/khutbah_idul_fitri.jpg"
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/khutbah_idul_fitri.jpg"
     },
     {
       "id": 8,
       "name_category": "Kajian Seputar Ramadhan",
-      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/category/kajian_ramadhan.jpg"	  
+      "image": "https://lumbungdroid.my.id/Pedoman_Puasa_Ramadhan/image/kajian_ramadhan.jpg"	  
     }
   ],
   "Data": [
