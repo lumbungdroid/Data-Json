@@ -50,41 +50,41 @@
     {
       "id": 1,
       "name_category": "Sebelum Puasa",
-      "image": "file:///android_asset/category/sebelum_puasa.jpg"
+      "image": "file://android_asset/category/sebelum_puasa.jpg"
     },
     {
       "id": 2,
       "name_category": "Puasa",
-      "image": "file:///android_asset/category/puasa.jpg"
+      "image": "file://android_asset/category/puasa.jpg"
     },
     {
       "id": 3,
       "name_category": "Sholat Tarawih",
-      "image": "file:///android_asset/category/Sholat_teraweh.jpg"
+      "image": "file://android_asset/category/Sholat_teraweh.jpg"
     },
     {
       "id": 4,
       "name_category": "I'tikaf",
-      "image": "file:///android_asset/category/itikaf.jpg"
+      "image": "file://android_asset/category/itikaf.jpg"
     },
     {
       "id": 5,
       "name_category": "Zakat",
-      "image": "file:///android_asset/category/zakat.jpg"
+      "image": "file://android_asset/category/zakat.jpg"
     },
     {
       "id": 6,
       "name_category": "Idul Fitri",
-      "image": "file:///android_asset/category/idul_fitri.jpg
+      "image": "file://android_asset/category/idul_fitri.jpg
     {
       "id": 7,
       "name_category": "Khutbah Idul Fitri",
-      "image": "file:///android_asset/category/khutbah_idul_fitri.jpg"
+      "image": "file://android_asset/category/khutbah_idul_fitri.jpg"
     },
     {
       "id": 8,
       "name_category": "Kajian Seputar Ramadhan",
-      "image": "file:///android_asset/category/kajian_ramadhan.jpg"	  
+      "image": "file://android_asset/category/kajian_ramadhan.jpg"	  
     }
   ],
   "Data": [
