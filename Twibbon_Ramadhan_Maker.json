@@ -52,6 +52,11 @@
     {
       "category": "Quotes",
       "image_link":  "https://digitpro.id/Twibbon_Ramadhan/Slide33.jpg"
+        
+    },
+    {
+      "category": "Frame Idul Fitri",
+      "image_link":  "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/10.png"	          
 
     }
   ],
@@ -1337,6 +1342,69 @@
       "category": "Wallpaper",
       "title": "Ramadhan Kareem ",
       "image_link": "https://digitpro.id/Twibbon_Ramadhan/ramadhan11.jpg"	  
+    },
+    {	  
+      "id": 182,
+      "type": 1,
+      "category": "Frame Idul Fitri",
+      "title": "Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/61.png"	  
+    },
+    {	  
+      "id": 183,
+      "type": 1,
+      "category": "Frame Idul Fitri",
+      "title": "Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/62.png"	  
+    },
+    {	  
+      "id": 184,
+      "type": 1,
+      "category": "Frame Idul Fitri",
+      "title": "Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/63.png"	  
+    },
+    {	  
+      "id": 185,
+      "type": 1,
+      "category": "Frame Idul Fitri",
+      "title": "Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/64.png"	  
+    },
+    {	  
+      "id": 186,
+      "type": 1,
+      "category": "Frame Idul Fitri",
+      "title": "Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/65.png"	  
+    },
+    {	  
+      "id": 187,
+      "type": 1,
+      "category": "Frame Idul Fitri",
+      "title": "Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/66.png"	  
+    },
+    {	  
+      "id": 188,
+      "type": 1,
+      "category": "Frame Idul Fitri",
+      "title": "Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/67.png"	  
+    },
+    {	  
+      "id": 189,
+      "type": 1,
+      "category": "Frame Idul Fitri",
+      "title": "Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/68.png"	  
+    },
+    {	  
+      "id": 190,
+      "type": 1,
+      "category": "Frame Idul Fitri",
+      "title": "Idul Fitri ",
+      "image_link": "https://lumbungdroid.my.id/Twibbon_Idul_Fitri/69.png"	  	          
     }
   ]
 }
